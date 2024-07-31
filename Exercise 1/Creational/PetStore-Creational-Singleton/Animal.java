@@ -1,5 +1,8 @@
 import java.util.ArrayList;
 public  class Animal {
+    private Animal(){
+
+    }
     static Animal animal = null;
     private String animalName= "";
     String isVaccinated="";
