@@ -12,9 +12,9 @@ public class MakeCar {
         System.out.println(color.getDetails());
         System.out.println(color.getPrice());
         
-        Car seats2 = new AdditionalSeats(seats);
-        System.out.println(seats2.getDetails());
-        System.out.println(seats2.getPrice());
+        Car turbo = new Turbo(car);
+        System.out.println(turbo.getDetails());
+        System.out.println(turbo.getPrice());
 
 
     }
