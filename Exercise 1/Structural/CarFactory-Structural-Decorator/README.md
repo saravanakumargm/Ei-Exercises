@@ -25,9 +25,8 @@
 899999.0<br/>
 4 Seater with 2 Airbags With Red Color<br/>
 899999.0<br/>
-4 Seater with 2 Airbags + 2 seats added + 2 seats added<br/>
-999999.0<br/>
-(See the MakeCar class to understand the output)<br/>
+4 Seater with 2 Airbags Super Turbo added!<br/>
+990000.0<br/>
 
 # Contact
   **Email : saravanakumargm00@gmail.com**
