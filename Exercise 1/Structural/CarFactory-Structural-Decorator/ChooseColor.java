@@ -14,6 +14,9 @@ public class ChooseColor extends CarDecorator{
 
     @Override
     public double getPrice() {
-        return new AdditionalSeats(car).getPrice();
+       if(new AdditionalSeats(car).isSeatsAddes)
+            return new AdditionalSeats(car).getPrice();
+        return super.getPrice();
+        
     }
 }
